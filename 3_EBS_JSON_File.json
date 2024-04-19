@@ -1,0 +1,32 @@
+{
+  "LinerTypes": [
+    {
+      "AUTOCAD_NAME": "1506",
+      "PRODUCT": "REW",
+      "NAME": "Ashlar Stone 3",
+      "DESCRIPTION": "Ashlar Stone 3",
+      "STANDARD": "Standard",
+      "CUT_SHEET": "Spec 1515",
+      "CHAMFER": "",
+      "FINISH": "",
+      "RELIEF_AVG": 1.5,
+      "RELIEF_MAX": 1.5,
+      "WEIGHT": 275,
+      "DRAWING_URL": "https://vincic.sharepoint.com/:f:/r/sites/RECoUSA-Fileserver/Operations/Forms%20and%20Liners/1500%20Stone/01506-REW-Ashlar%20Stone%203?csf=1&web=1&e=3Ha3Ki"
+    },
+    {
+      "AUTOCAD_NAME": "1501",
+      "PRODUCT": "RLA",
+      "NAME": "Ashlar Stone 1",
+      "DESCRIPTION": "Ashlar Stone 1",
+      "STANDARD": "Standard",
+      "CUT_SHEET": "Spec 1523",
+      "CHAMFER": "Yes",
+      "FINISH": "",
+      "RELIEF_AVG": 1.5,
+      "RELIEF_MAX": 1.5,
+      "WEIGHT": 400,
+      "DRAWING_URL": "https://vincic.sharepoint.com/:f:/r/sites/RECoUSA-Fileserver/Operations/Forms%20and%20Liners/1500%20Stone/01501-RLA-Ashlar%20Stone%201?csf=1&web=1&e=JqGH6v"
+    }
+  ]
+}
